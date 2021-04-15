@@ -1,1 +1,1 @@
-# deadalias-gihub.io
+# deadalias-github.io
